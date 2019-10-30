@@ -3,7 +3,7 @@
 #include<string.h>
 void main()
 {
-	int i,j;
+	int i;
 	char label[5][20]={"name","age","sex","qualification"},a[5][10];
 	for(i=0;i<4;i++);
 	{
