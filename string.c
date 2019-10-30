@@ -8,7 +8,7 @@ void main()
 	for(i=0;i<4;i++);
 	{
 		printf("\n enter your string %s",label[i]);
-		gets(a[i]);
+		fgets(a[i]);
 		
 	}
 	for(i=0;i<4;i++)
